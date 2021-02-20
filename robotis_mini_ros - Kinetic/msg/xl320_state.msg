@@ -1,0 +1,9 @@
+uint8  ID
+uint8  Torque_Enable
+float32 Present_Position
+uint16 Present_Speed
+uint16 Present_Load
+uint8  Present_Voltage
+uint8  Present_Temperature
+uint8  LED
+uint8  Hardware_Error_Status

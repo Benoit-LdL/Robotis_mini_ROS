@@ -1,0 +1,11 @@
+uint16 Model_Number
+uint8  Firmware_Version
+uint8  ID
+uint8  Baud_Rate
+float32 Goal_Position
+uint8  Moving
+uint16 Moving_Speed
+uint16 Torque_Limit
+uint8  P_gain
+uint8  I_gain
+uint8  D_gain
