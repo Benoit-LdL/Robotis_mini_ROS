@@ -9,6 +9,7 @@ project(robotis_mini_ros)
 ## is used, also find other catkin packages
 find_package(catkin REQUIRED COMPONENTS
   rospy
+  std_msgs
   message_generation
 )
 
@@ -51,6 +52,7 @@ find_package(catkin REQUIRED COMPONENTS
    imu.msg
    xl320_info.msg
    xl320_state.msg
+   xl320_position.msg
  )
 
 ## Generate services in the 'srv' folder
@@ -70,7 +72,7 @@ find_package(catkin REQUIRED COMPONENTS
 ## Generate added messages and services with any dependencies listed here
  generate_messages(
    DEPENDENCIES
-   #std_msgs  # Or other packages containing msgs
+   std_msgs  # Or other packages containing msgs
  )
 
 ################################################

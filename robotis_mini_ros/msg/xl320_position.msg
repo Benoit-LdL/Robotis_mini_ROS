@@ -1,2 +1,2 @@
-uint16 angle
-uint16 velocity
+int16 angle
+int16 velocity

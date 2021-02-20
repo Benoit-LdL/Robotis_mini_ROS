@@ -6,5 +6,5 @@
           <param name="baud" value="1000000"/>
       </node>
   <!-- Execute Python script-->
-  <!-- <node pkg="robotis_mini_ros" type="base.py" name="base" output="screen"/> -->
+  <node pkg="robotis_mini_ros" type="base.py" name="base" output="screen"/>
 </launch>
