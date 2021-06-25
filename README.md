@@ -23,8 +23,8 @@ Until I found out you can run ROS on a raspberry PI zero!
 ## What's the plan for V2?
 1) Run ROSCORE together with all "heavy" computing on my laptop.
 2) Use ROS on the Pi Zero to bridge communication between my laptop and the servos wirelessly.
-3) use the GPIO pins of the Pi Zero to connect directly to the Serial interface of the servos. This means the OpenCM9.04 board will only be used to power the servos, while the Pi Zero will be used to controll them.
-4) All code will be written in python and can is much easier to test (no compiling, uploading etc to the MCU).
+3) use the GPIO pins of the Pi Zero to connect directly to the Serial interface of the servos. This means the OpenCM9.04 board will only be used to power the servos, while the Pi Zero will be used to communicate with them.
+4) All code will be written in python and will be much easier to test (no compiling, uploading etc to the MCU).
 
 ## Hardware & Software Used
 
