@@ -2,8 +2,8 @@
 
 ## What's this project about?
 This is version 2. For more information regarding this project, please check the readme file from the [V1 branch](https://github.com/Benoit-LdL/Robotis_Mini_ROS/tree/V1).
-
-## What is ther problem with V1?
+OpenCM-code
+## What is the problem with V1?
 In version 1 I used the OpenCM9.04 board from the Robotis Mini Kit and ran custom arduino code on it that communicated with ros running on a Raspberry Pi.
 
 These were the main issues with version 1:
