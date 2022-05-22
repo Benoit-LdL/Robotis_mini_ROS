@@ -1,4 +1,8 @@
-# Robotis_Mini_ROS V2
+# ! Not maintained anymore (for now...) ! 
+
+# New repository :point_right: [here](https://github.com/Benoit-LdL/Robotis_Mini_Python)
+
+
 
 ## What's this project about?
 This is version 2. For more information regarding this project, please check the readme file from the [V1 branch](https://github.com/Benoit-LdL/Robotis_Mini_ROS/tree/V1).
